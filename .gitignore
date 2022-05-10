@@ -1,0 +1,9 @@
+# venv
+env/
+
+# pycache
+templateapp/templateapp/__pycache__/
+
+# main files
+templateapp/manage.py
+templateapp/db.sqlite3
